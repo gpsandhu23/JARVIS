@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Pytest
+.pytest_cache
+
+# Pytest coverage
+.coverage
+
+# Pytest coverage HTML
+.coverage.html
+
+# Environment variables
+.env
+.envrc
