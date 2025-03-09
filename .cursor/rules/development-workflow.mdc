@@ -5,12 +5,12 @@ alwaysApply: false
 ---
 
 # Use the following steps when user asks to build something
-1. Crete a new feature branch
-2. Write the tests using Pytest
-3. Run the tests using Pytest and make sure they run and fail
-4. Write the code for the feature
-5. Run linter ruff check .
-6. Format code ruff format .
-7. Run tests again and make sure they pass now
-8. Make a commit that will trigger pre-commit hooks
-9. Give a summary to the user
+Crete a new feature branch
+Write the tests using Pytest
+Run the tests using Pytest and make sure they run and fail
+Write the code for the feature
+Run linter ruff check .
+Format code ruff format .
+Run tests again and make sure they pass now
+Make a commit that will trigger pre-commit hooks
+Give a summary to the user

@@ -21,3 +21,6 @@ wheels/
 # Environment variables
 .env
 .envrc
+
+# Ruff lint
+.ruff_cache
