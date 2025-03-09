@@ -1,0 +1,12 @@
+---
+description: Check this to see what packages are preferred for this project
+globs: *.py
+alwaysApply: false
+---
+
+# These packages are preferred, consider this when providing suggestions
+
+- Pydantic
+- Langgraph
+- Langsmith
+- Pytest
